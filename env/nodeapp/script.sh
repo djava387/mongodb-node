@@ -44,7 +44,7 @@ echo --------------- Move into App Folder -----------
 cd ../vagrant/app
 
 echo -------------- Install Dependancies ------------
-npm install
+sudo npm install
 
 echo -------------------- Run App -------------------
   node script.js
